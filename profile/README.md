@@ -94,6 +94,18 @@ Ekotəşkilat iki əsas sütun və bir qlobal profil reposu üzərində qurulmu�
 
 ---
 
+## 🧠 Çarpaz Alqoritmik Sintezlər və Alətlər (LLM Wiki Sprints)
+
+Bilik bazası sadəcə məsələlərin kataloqu deyil; o, alqoritmlər arasında riyazi və struktur əlaqələri quran dayanıqlı **LLM Wiki** sintezlərindən ibarətdir:
+
+1. ⚡ **[Dynamic Programming Alignment Paradigms](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics/blob/main/wiki/dynamic-programming-alignment-paradigms.md):** 7 əsas düzləndirmə modelinin (Global, Local, Fitting, Overlap, Semiglobal, Affine Gaps, Hirschberg Linear Space $O(n+m)$) rekurrent tənlikləri və müqayisəli taksonomiyası.
+2. 🧬 **[Genome Assembly Paradigms](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics/blob/main/wiki/genome-assembly-paradigms-comparative.md):** OLC (Hamiltonian, NP-complete) yanaşmasından De Bruijn qraflarına (Eulerian, linear $O(V+E)$) keçid və qoşa oxunuşlu $(k, d)$-mer gapped yığılma.
+3. 📊 **[Complexity & Asymptotic Bounds Matrix](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics/blob/main/wiki/algorithmic-complexity-and-bounds-matrix.md):** 284 məsələnin asimptotik zaman ($O(n), O(n \log n), O(nm), O(n^3)$) və yaddaş mürəkkəblik matrisi.
+4. 🎲 **[Hidden Markov Models in Computational Biology](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics/blob/main/wiki/hidden-markov-models-in-computational-biology.md):** Üç fundamental HMM probleminin (Evaluation, Viterbi Decoding, Baum-Welch EM) və Profil HMM arxitekturasının unifikasiyası.
+5. 🔍 **[tools/search_wiki.py](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics/blob/main/tools/search_wiki.py):** Bütün Markdown bilik bazası üzərində BM25 reytinqli sürətli yerli CLI axtarış mühərriki.
+
+---
+
 ## 🗺️ 3-Pilləli Tədris Trayektoriyası (Curriculum Roadmap)
 
 ```
