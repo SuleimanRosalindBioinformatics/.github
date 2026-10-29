@@ -8,6 +8,8 @@
 
 [![Live Web Portal](https://img.shields.io/badge/🌐_Canlı_Portal-suleimanrosalindbioinformatics.github.io-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suleimanrosalindbioinformatics.github.io/)
 [![Organization](https://img.shields.io/badge/GitHub_Org-SuleimanRosalindBioinformatics-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanRosalindBioinformatics)
+[![Data Access](https://img.shields.io/badge/Core_Data_%26_Repo-Private_🔒-f59e0b?style=for-the-badge)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
+[![Request Access](https://img.shields.io/badge/Request_Access-suleyman.hacizade1%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
 [![Rosalind Solved](https://img.shields.io/badge/Rosalind_Solved-284%2F284_(100%25)-green.svg?style=for-the-badge&logo=target)](http://rosalind.info/)
 [![Language: Python 3](https://img.shields.io/badge/Language-Python%203.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -16,17 +18,28 @@
   <b>The official GitHub Organization for academic-grade implementations of all 284 computational biology problems on the Rosalind platform — spanning dynamic programming alignments, Eulerian genome assembly, Baum-Welch HMMs, phylogenetic trees, and mass spectrometry de novo sequencing.</b>
 </p>
 
-[🌐 Live Web Portal](https://suleimanrosalindbioinformatics.github.io/) • [🔒 Core Solutions Repository](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) • [💻 Frontend Web Repository](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics.github.io)
+[🌐 Live Web Portal](https://suleimanrosalindbioinformatics.github.io/) • [🔒 Core Solutions Repository (Private)](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) • [📧 Request Access via Email](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics) • [💻 Frontend Web Repository](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics.github.io)
 
 ---
 
 </div>
 
+> [!IMPORTANT]
+> ### 🔒 Məxfi Məlumatlar və Giriş Müraciəti / Private Data & Repository Access
+>
+> **🇦🇿 Azərbaycan dili:** Bu təşkilatdakı əsas məlumat bazası, 284 məsələnin tam Python həll skriptləri (`main.py`), rəsmi giriş/çıxış datasetləri (`rosalind_*.txt`, `output.txt`) və 315+ fayllıq **LLM Wiki** bilik bazası ([**`SuleimanRosalindBioinformatics`**](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) repozitoriyası) **məxfidir (Private)**. Əgər elmi tədqiqat, akademik araşdırma və ya tanışlıq məqsədilə giriş (access) əldə etmək istəyirsinizsə, aşağıdakı elektron poçt ünvanına müraciət edə bilərsiniz:
+> - 📧 **E-poçt (Giriş müraciəti üçün):** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
+>
+> **🇬🇧 English:** All primary datasets, executable Python solution scripts (`main.py`) for all 284 problems, verified input/output benchmark files (`rosalind_*.txt`, `output.txt`), and the complete 315+ note compounding **LLM Wiki** housed in the [**`SuleimanRosalindBioinformatics`**](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) core repository are **Private**. If you would like to request access for academic, research, or review purposes, please contact via email:
+> - 📧 **Email (For Access Requests):** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
+
+---
+
 ## 🏛️ Müəllif və Təşkilat Rəhbərliyi / Leadership & Authorship
 
 * **Müəllif və Layihə Rəhbəri:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
 * **İxtisas Sahəsi:** *Bioinformatika, Hesablamalı Struktur Biologiya və Kompüter Elmləri*
-* **Əlaqə:** `suleyman.hacizade1@gmail.com`
+* **Məxfi Data və Repozitoriya Girişi Üçün Müraciət (Access Request):** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
 * **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
 
 ---
@@ -73,10 +86,10 @@ Ekotəşkilat iki əsas sütun və bir qlobal profil reposu üzərində qurulmu�
 
 ## 🗂️ Rəsmi Repozitoriyalar / Official Repositories
 
-| Repozitoriya | Növü | Təsvir və Məqsəd | Birbaşa Keçid |
+| Repozitoriya | Növü | Təsvir və Məqsəd | Birbaşa Keçid / Giriş |
 | :--- | :--- | :--- | :--- |
 | 🌐 **[SuleimanRosalindBioinformatics.github.io](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics.github.io)** | `Public` / `Pages` | **Canlı İnteraktiv Veb Portal:** Bütün 284 məsələ üçün axtarış və filtrləmə kataloqu, canlı brauzer laboratoriyası (Mərkəzi Doqma, GC Skew OriC trayektoriyası, Hamming d<sub>H</sub>, Dinamik Proqramlaşdırma matrisi) və 3-pilləli tədris xəritəsi. | [🚀 Canlı Sayt](https://suleimanrosalindbioinformatics.github.io) |
-| 🔒 **[SuleimanRosalindBioinformatics](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics)** | `Private` / `Core Vault` | **Əsas Kod və Həllər Bazası:** 284 məsələnin icra olunan Python 3 skriptləri (`main.py`), rəsmi Rosalind giriş verilənləri (`rosalind_*.txt`), təsdiqlənmiş çıxış nəticələri (`output.txt`) və `wiki/` bilik bazası. | [📦 Kod Reposu](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) |
+| 🔒 **[SuleimanRosalindBioinformatics](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics)** | `Private 🔒` / `Core Vault` | **Əsas Kod və Həllər Bazası (Məxfi):** 284 məsələnin icra olunan Python 3 skriptləri (`main.py`), rəsmi Rosalind giriş verilənləri (`rosalind_*.txt`), təsdiqlənmiş çıxış nəticələri (`output.txt`) və `wiki/` bilik bazası. *Giriş yalnız müraciət əsasındadır.* | [📧 Giriş Üçün Müraciət (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics) |
 | ⚙️ **[.github](https://github.com/SuleimanRosalindBioinformatics/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilatın ümumi təsviri, arxitekturası, brend aktivləri və ekosistem standartları. | [⚙️ .github Reposu](https://github.com/SuleimanRosalindBioinformatics/.github) |
 
 ---
