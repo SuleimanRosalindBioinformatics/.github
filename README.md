@@ -10,4 +10,9 @@ This repository contains the community health files and the official organizatio
 > 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)**
 
 👉 Please view the full organization profile at: **[profile/README.md](profile/README.md)**  
-👉 Live interactive web platform: **[https://suleimanrosalindbioinformatics.github.io](https://suleimanrosalindbioinformatics.github.io)**
+👉 Live interactive web platform: **[https://suleimanrosalindbioinformatics.github.io](https://suleimanrosalindbioinformatics.github.io)**  
+* 📚 **[Problems Catalog (284 Solved)](https://suleimanrosalindbioinformatics.github.io/problems/)**
+* 🧠 **[9 Algorithmic Syntheses](https://suleimanrosalindbioinformatics.github.io/syntheses/)**
+* 🗺️ **[Curriculum Roadmap](https://suleimanrosalindbioinformatics.github.io/curriculum/)**
+* 🔬 **[13 Domains Taxonomy](https://suleimanrosalindbioinformatics.github.io/domains/)**
+* 🧬 **[Live Bio-Studio Workbench](https://suleimanrosalindbioinformatics.github.io/studio/)**

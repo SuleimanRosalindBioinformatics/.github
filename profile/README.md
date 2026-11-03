@@ -18,7 +18,7 @@
   <b>The official GitHub Organization for academic-grade implementations of all 284 computational biology problems on the Rosalind platform — spanning dynamic programming alignments, Eulerian genome assembly, Baum-Welch HMMs, phylogenetic trees, and mass spectrometry de novo sequencing.</b>
 </p>
 
-[🌐 Live Web Portal](https://suleimanrosalindbioinformatics.github.io/) • [🔒 Core Solutions Repository (Private)](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) • [📧 Request Access via Email](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics) • [💻 Frontend Web Repository](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics.github.io)
+[🌐 Live Web Portal](https://suleimanrosalindbioinformatics.github.io/) • [📚 284 Problems Catalog](https://suleimanrosalindbioinformatics.github.io/problems/) • [🧠 9 Algorithmic Syntheses](https://suleimanrosalindbioinformatics.github.io/syntheses/) • [🗺️ Curriculum Roadmap](https://suleimanrosalindbioinformatics.github.io/curriculum/) • [🔬 13 Domains](https://suleimanrosalindbioinformatics.github.io/domains/) • [🧬 Live Studio](https://suleimanrosalindbioinformatics.github.io/studio/) • [🔒 Core Repo (Private)](https://github.com/SuleimanRosalindBioinformatics/SuleimanRosalindBioinformatics) • [📧 Request Access](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanRosalindBioinformatics)
 
 ---
 
